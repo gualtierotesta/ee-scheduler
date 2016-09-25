@@ -1,0 +1,20 @@
+## Build
+target
+dist
+*.class
+*.ear
+*.jar
+*.war
+## Tmp files
+*~
+hs_err_pid*
+##NetBeans
+nb*.xml
+## IntelliJ
+.idea
+*.iml
+## Eclipse
+.project
+.classpath
+.settings
+article.md
