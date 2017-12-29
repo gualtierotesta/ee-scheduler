@@ -1,20 +1,19 @@
-## Build
-target
-dist
-*.class
-*.ear
-*.jar
-*.war
-## Tmp files
 *~
+article.md
+*.class
+.classpath
+dist
+*.ear
 hs_err_pid*
-##NetBeans
-nb*.xml
-## IntelliJ
 .idea
 *.iml
-## Eclipse
+*-iml## Build
+*.jar
+nb*
+nbproject
+nb-*.xml
+nb*.xml
 .project
-.classpath
 .settings
-article.md
+target
+*.war
