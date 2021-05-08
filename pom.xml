@@ -4,12 +4,12 @@
 
     <groupId>it.gualtierotesta.example</groupId>
     <artifactId>ee-scheduler</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <packaging>war</packaging>
 
     <name>ee-scheduler</name>
     <description>JAVA EE Scheduler examples</description>
-    <url>http://www.gualtierotesta.it</url>
+    <url>https://gualtierotesta.wordpress.com</url>
     <inceptionYear>2016</inceptionYear>
 
     <licenses>
@@ -20,17 +20,6 @@
         </license>
     </licenses>
 
-    <developers>
-        <developer>
-            <id>gualtiero</id>
-            <name>Gualtiero Testa</name>
-            <email>gualtiero.testa@gmail.com</email>
-            <roles>
-                <role>architect</role>
-                <role>developer</role>
-            </roles>
-        </developer>
-    </developers>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
